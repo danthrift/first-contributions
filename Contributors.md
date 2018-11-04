@@ -10155,6 +10155,7 @@ Rohan Das
 - [Nathan](https://github.com/mutedajar)
 - [Vinicius Min Soo](https://github.com/vinnimin)
 - [Karthikeyan Rajendran](https://github.com/vrkarthik)
+- [Dan Thrift](https://github.com/danthrift)
 - [Paul Shen](https://github.com/ShenPaul)
 - [TotalAMD](https://github.com/totalamd)
 - [Gilg4mesh](https://github.com/Gilg4mesh)
